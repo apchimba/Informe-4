@@ -22,19 +22,33 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![1](https://user-images.githubusercontent.com/116811469/208314971-50601f87-430f-411f-8122-4e5dec485217.png)
+
 ![2](https://user-images.githubusercontent.com/116811469/208314972-e8ccacd8-e413-4697-8ace-ddcc0b7565fe.png)
+
 ![3](https://user-images.githubusercontent.com/116811469/208314953-406268d5-4a3d-44a7-8ec2-fe2bd5e8a55a.png)
+
 ![4](https://user-images.githubusercontent.com/116811469/208314954-4ce79e1e-8a44-4cd7-87bd-e83082beeb23.png)
+
 ![5](https://user-images.githubusercontent.com/116811469/208314957-575f56f3-09a3-4687-b7b9-d5fa6e8d7d9d.png)
+
 ![6](https://user-images.githubusercontent.com/116811469/208314959-231739c6-c6db-4eb4-bf8a-9ac8244371a0.png)
+
 ![7](https://user-images.githubusercontent.com/116811469/208314960-0f6b7af3-92ed-47de-af3a-c0a3f5f04eae.png)
+
 ![8](https://user-images.githubusercontent.com/116811469/208314961-8439f071-1654-420e-b0b2-7b20b70fb7b9.png)
+
 ![9](https://user-images.githubusercontent.com/116811469/208314964-a81642d8-52e9-4406-ba94-3837b7b0052a.png)
+
 ![10](https://user-images.githubusercontent.com/116811469/208314965-f222772d-3d06-4597-a9cc-3c3e7d089f40.png)
+
 ![11](https://user-images.githubusercontent.com/116811469/208314966-cfd2e05b-bdd2-41c5-a45f-b0c612a92ab3.png)
+
 ![12](https://user-images.githubusercontent.com/116811469/208314967-2720e5af-cf75-4c41-9943-157d662cda6f.png)
+
 ![13](https://user-images.githubusercontent.com/116811469/208314968-a43dc1d5-f09d-4d8d-baba-ad115eed1b1b.png)
+
 ![14](https://user-images.githubusercontent.com/116811469/208314969-6f9f2d1d-81c8-46d0-bbc5-6f22fc7611c2.png)
+
 ![15](https://user-images.githubusercontent.com/116811469/208314970-06d06f4a-8070-404d-a13b-843973cfd8af.png)
 
 ## 4. VIDEO
