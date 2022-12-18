@@ -53,6 +53,8 @@
 
 ## 4. VIDEO
 
+
+
 ## 5. CONCLUSIONES
 
 Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente utiles al momento de resolver circuitos ya con más complejidad.
